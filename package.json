@@ -1,0 +1,19 @@
+{
+    "name": "exjs7.1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "cy:dash": "cypress run --record --key e4cfd1ce-a9c2-4509-9d91-bff0c535cd12"
+    },
+    "keywords": [
+        "cypress",
+        "api",
+        "dashboard"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^10.8.0"
+    }
+}
